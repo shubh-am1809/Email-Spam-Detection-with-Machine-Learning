@@ -1,0 +1,4 @@
+Email Text:
+Congratulations! You have won a free lottery ticket.
+
+Prediction: spam
